@@ -12,10 +12,13 @@ body {
     border: 1px solid black;
 }
 
+h3 {
+    font-size: 175%;
+}
 
 .container {
     display: flex;
-    justify-content: space-around;    
+    justify-content: space-around;
 }
 
 button {
@@ -23,7 +26,7 @@ button {
     background-color: white;
     border: none;
     border-radius: 2px;
-    border: .5px solid dashed;    
+    border: .5px solid dashed;
     margin: 0 6px;
 }
 
